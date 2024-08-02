@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "75c0e8c4f88feff915cd3d1d26563818bdad84b2f601861f15288a3c7606e5e6"
+            "sha256": "e9299319797f8b5394c35596baa6ae5463534a0ee471af88c5a0dbb506cd7e33"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,13 @@
         ]
     },
     "default": {
+        "beautifulreport": {
+            "hashes": [
+                "sha256:2c6b064248580e73b65feea36e1d74d5f3c1a0187825ab04ec909e3c016f138b"
+            ],
+            "index": "pypi",
+            "version": "==0.1.3"
+        },
         "pyyaml": {
             "hashes": [
                 "sha256:04ac92ad1925b2cff1db0cfebffb6ffc43457495c9b3c39d3fcae417d7125dc5",
@@ -73,6 +80,15 @@
             "index": "pypi",
             "markers": "python_version >= '3.6'",
             "version": "==6.0.1"
+        },
+        "setuptools": {
+            "hashes": [
+                "sha256:5a03e1860cf56bb6ef48ce186b0e557fdba433237481a9a625176c2831be15d1",
+                "sha256:8d243eff56d095e5817f796ede6ae32941278f542e0f941867cc05ae52b162ec"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==72.1.0"
         },
         "yamail": {
             "hashes": [

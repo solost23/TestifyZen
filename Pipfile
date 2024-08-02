@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pyyaml = "*"
 yamail = "*"
+beautifulreport = "*"
+setuptools = "*"
 
 [dev-packages]
 
